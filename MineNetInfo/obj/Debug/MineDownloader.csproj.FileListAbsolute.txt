@@ -1,0 +1,13 @@
+C:\Users\ezz\source\repos\MineDownloader\MineDownloader\obj\Debug\MineDownloader.csproj.GenerateResource.cache
+C:\Users\ezz\source\repos\MineDownloader\MineDownloader\obj\Debug\MineDownloader.csproj.CoreCompileInputs.cache
+C:\Users\ezz\source\repos\MineDownloader\MineDownloader\obj\Debug\MineDownloader.Main.resources
+C:\Users\ezz\source\repos\MineDownloader\MineDownloader\obj\Debug\MineDownloader.SpecificAddress.resources
+C:\Users\ezz\source\repos\MineDownloader\MineDownloader\bin\Debug\MinePinger.exe.config
+C:\Users\ezz\source\repos\MineDownloader\MineDownloader\bin\Debug\MinePinger.exe
+C:\Users\ezz\source\repos\MineDownloader\MineDownloader\bin\Debug\MinePinger.pdb
+C:\Users\ezz\source\repos\MineDownloader\MineDownloader\obj\Debug\MinePinger.Properties.Resources.resources
+C:\Users\ezz\source\repos\MineDownloader\MineDownloader\obj\Debug\MinePinger.exe
+C:\Users\ezz\source\repos\MineDownloader\MineDownloader\obj\Debug\MinePinger.pdb
+C:\Users\ezz\source\repos\MineDownloader\MineDownloader\obj\Debug\MinePinger.NetworksForm.resources
+C:\Users\ezz\source\repos\MineDownloader\MineDownloader\obj\Debug\MineDownloader.csprojAssemblyReference.cache
+C:\Users\ezz\source\repos\MineDownloader\MineDownloader\obj\Debug\MinePinger.PCInformationForm.resources

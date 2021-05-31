@@ -1,0 +1,13 @@
+C:\Users\ezz\source\repos\MineDownloader\MineNetInfo\bin\Debug\MineNetInfo.exe.config
+C:\Users\ezz\source\repos\MineDownloader\MineNetInfo\bin\Debug\MineNetInfo.exe
+C:\Users\ezz\source\repos\MineDownloader\MineNetInfo\bin\Debug\MineNetInfo.pdb
+C:\Users\ezz\source\repos\MineDownloader\MineNetInfo\obj\Debug\MineNetInfo.csprojAssemblyReference.cache
+C:\Users\ezz\source\repos\MineDownloader\MineNetInfo\obj\Debug\MineDownloader.Main.resources
+C:\Users\ezz\source\repos\MineDownloader\MineNetInfo\obj\Debug\MinePinger.NetworksForm.resources
+C:\Users\ezz\source\repos\MineDownloader\MineNetInfo\obj\Debug\MinePinger.PCInformationForm.resources
+C:\Users\ezz\source\repos\MineDownloader\MineNetInfo\obj\Debug\MineNetInfo.Properties.Resources.resources
+C:\Users\ezz\source\repos\MineDownloader\MineNetInfo\obj\Debug\MineDownloader.SpecificAddress.resources
+C:\Users\ezz\source\repos\MineDownloader\MineNetInfo\obj\Debug\MineNetInfo.csproj.GenerateResource.cache
+C:\Users\ezz\source\repos\MineDownloader\MineNetInfo\obj\Debug\MineNetInfo.csproj.CoreCompileInputs.cache
+C:\Users\ezz\source\repos\MineDownloader\MineNetInfo\obj\Debug\MineNetInfo.exe
+C:\Users\ezz\source\repos\MineDownloader\MineNetInfo\obj\Debug\MineNetInfo.pdb

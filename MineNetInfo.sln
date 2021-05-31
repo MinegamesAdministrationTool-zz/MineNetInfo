@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineNetInfo", "MineNetInfo\MineNetInfo.csproj", "{DFD22094-545B-4BBB-81DE-27B20873D28D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFD22094-545B-4BBB-81DE-27B20873D28D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD22094-545B-4BBB-81DE-27B20873D28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD22094-545B-4BBB-81DE-27B20873D28D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD22094-545B-4BBB-81DE-27B20873D28D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {101C5E4A-361D-40F6-9377-3FF77A1F9181}
+	EndGlobalSection
+EndGlobal
